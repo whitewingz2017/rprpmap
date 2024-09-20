@@ -1,0 +1,68 @@
+<svg width="50" height="60" viewBox="0 0 25 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g filter="url(#filter0_i_7_4)">
+        <rect x="12.8891" width="16.8137" height="16.8137" rx="1" transform="rotate(45 12.8891 0)"
+            fill="url(#paint0_radial_7_4)" fill-opacity="0.25" />
+    </g>
+    <rect x="12.8891" y="0.707107" width="15.8137" height="15.8137" rx="0.5"
+        transform="rotate(45 12.8891 0.707107)" stroke="url(#paint1_radial_7_4)" />
+    <rect x="12.8148" y="6.70711" width="15.7739" height="15.7739" rx="0.5"
+        transform="rotate(45 12.8148 6.70711)" fill="url(#paint2_radial_7_4)" fill-opacity="0.25"
+        stroke="url(#paint3_linear_7_4)" />
+    <g filter="url(#filter1_i_7_4)">
+        <rect x="13.0282" y="6.1391" width="8.13173" height="8.13173" rx="1"
+            transform="rotate(45 13.0282 6.1391)" fill="#00F8B9" />
+    </g>
+    <defs>
+        <filter id="filter0_i_7_4" x="1.41425" y="0.414215" width="22.9497" height="22.9497"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feColorMatrix in="SourceAlpha" type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+            <feMorphology radius="3" operator="erode" in="SourceAlpha"
+                result="effect1_innerShadow_7_4" />
+            <feOffset />
+            <feGaussianBlur stdDeviation="4.85" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0.764706 0 0 0 0 0.572549 0 0 0 0.55 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow_7_4" />
+        </filter>
+        <filter id="filter1_i_7_4" x="7.69238" y="6.55331" width="10.6716" height="10.6716"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feColorMatrix in="SourceAlpha" type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+            <feMorphology radius="3" operator="erode" in="SourceAlpha"
+                result="effect1_innerShadow_7_4" />
+            <feOffset />
+            <feGaussianBlur stdDeviation="4.85" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0.764706 0 0 0 0 0.572549 0 0 0 0.55 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow_7_4" />
+        </filter>
+        <radialGradient id="paint0_radial_7_4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+            gradientTransform="translate(21.296 8.40686) rotate(39.5597) scale(16.72)">
+            <stop stop-color="#027255" />
+            <stop offset="1" stop-color="#035B45" />
+        </radialGradient>
+        <radialGradient id="paint1_radial_7_4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+            gradientTransform="translate(21.296 8.40685) rotate(36.6071) scale(11.2782 140.481)">
+            <stop stop-color="#00C392" />
+            <stop offset="1" stop-color="#00C392" stop-opacity="0" />
+        </radialGradient>
+        <radialGradient id="paint2_radial_7_4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+            gradientTransform="translate(21.2017 14.3869) rotate(39.5597) scale(16.6804)">
+            <stop stop-color="#027255" stop-opacity="0" />
+            <stop offset="1" stop-color="#035B45" />
+        </radialGradient>
+        <linearGradient id="paint3_linear_7_4" x1="12.1696" y1="7.67738" x2="29.2893" y2="24.797"
+            gradientUnits="userSpaceOnUse">
+            <stop offset="0.34617" stop-color="#00C392" stop-opacity="0" />
+            <stop offset="1" stop-color="#00C392" />
+        </linearGradient>
+    </defs>
+</svg>
+    
